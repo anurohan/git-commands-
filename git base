@@ -1,0 +1,12 @@
+git init  | ###This command creates a new Git repository in your current directory.
+
+
+git add <filename> |##This command adds the specified file to the staging area, which is a snapshot of the changes you want to commit. You can add multiple files by separating them with spaces.
+
+git add . | This command adds all new and modified files in the current directory and its subdirectories to the staging area.
+
+git commit -m "Commit message" | This command saves the changes in the staging area to your local repository history, along with a message describing the changes.
+
+git clone <repository URL> | This command creates a local copy of a remote repository from the specified URL.
+
+git status | This command shows the status of your working directory and staging area, including any changes that have been made.
